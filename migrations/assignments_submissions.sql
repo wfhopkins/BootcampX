@@ -14,3 +14,8 @@ CREATE TABLE assignment_submissions (
   duration INTEGER,
   submission_date DATE
 );
+
+
+INSERT INTO pets (name, owner_id)
+VALUES ('Chungus', 3),
+('Loki', 4);
